@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 I'm learning React, Node and how to use docker. I'm always keen on going deeper on javascript concepts</p>
+<p align="left">I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 I'm learning React, Node and how to use docker. I'm always keen on going deeper into javascript concepts</p>
 
 ###
 
@@ -45,7 +45,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
@@ -59,7 +60,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
