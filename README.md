@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Welcome to the noob!</h1>
+<h1 align="center">Welcome to the Hood!</h1>
 
 ###
 
@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 I'm learning React, Node and how to use docker. I'm always keen on going deeper into javascript concepts</p>
+<p align="left">I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 -I'm always keen on going deeper into javascript concepts. Curretly i'm learning NextJs and trying improve my skills in Node Js with fastify <br><br> - On my spare time i'm involved as volunteer at Antred. I spent last few month, designing the website and i just start implementing it </p>
+
+<p> Feel free to contact me, especially if you want to teach me new stuff, participate to my project or review it. I hope to become better with you help!</p>
 
 ###
 
@@ -64,8 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
