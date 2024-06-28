@@ -21,7 +21,7 @@
 ###
 
 # 💫 About Me:
-I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 -I'm always keen on going deeper into javascript concepts. Curretly i'm learning NextJs and trying improve my skills in Node Js with fastify<br><br>- On my spare time i'm involved as volunteer at Antred. I spent last few month, designing the website and i just start implementing it<br><br>Feel free to contact me, especially if you want to teach me new stuff, participate to my projects or review it. I hope to become better with you help!<br><br>
+I'm Adam from Paris, France.<br><br>- 🔭 I used to work as a crime scene investigator but i'm currently studying web developpment<br><br>- 📚 -I'm always keen on going deeper into javascript concepts. Currently, i'm learning NextJs and trying improve my skills in Node.Js with Fastify<br><br>- On my spare time i'm involved as volunteer at Antred. I spent last few month, designing the website and i just start implementing it<br><br>Feel free to contact me, especially if you want to teach me new stuff, participate to my projects or review it. I hope to become better with you help!<br><br>
 
 
 # 💻 Tech Stack:
